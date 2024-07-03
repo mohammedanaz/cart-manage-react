@@ -1,0 +1,19 @@
+.container {
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  nav a {
+    margin-right: 20px;
+  }
+  
+  .card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+  }
+  
+  .card-body {
+    text-align: center;
+  }
+  
